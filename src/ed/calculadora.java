@@ -1,7 +1,6 @@
 // Importamos la clase Scanner para la entrada de datos por el usuario
 package ed;
 
-
 import java.util.Scanner;
 
 // Declaración de la clase principal llamada 'archivo'
@@ -44,4 +43,4 @@ public class calculadora {
         // Cerramos el objeto Scanner para liberar recursos
         scanner.close();
     }
-}
+}//nuevo comentario
